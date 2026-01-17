@@ -1,6 +1,6 @@
 <CodeWalkerProject>
-  <Name>New CodeWalker Project</Name>
-  <Version value="1" />
+  <Name>SandyMotelConstruction</Name>
+  <Version value="2.0" />
   <YmapFilenames>
     <Item>included.alhambra.247.ymap</Item>
     <Item>included.alhambra.firestation.withcars.ymap</Item>
@@ -9,7 +9,6 @@
     <Item>included.eastjoshua-alhambra.trees.ymap</Item>
     <Item>included.sandy.air-field.ymap</Item>
     <Item>included.sandy.bikeracks.ymap</Item>
-    <Item>included.sandy.billboards.ymap</Item>
     <Item>included.sandy.phoneboxes.ymap</Item>
     <Item>included.sandy.signs.ymap</Item>
     <Item>included.sandy.stopsigns.ymap</Item>
