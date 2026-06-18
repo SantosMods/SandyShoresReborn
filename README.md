@@ -1,43 +1,65 @@
 # SandyShoresReborn
 
-**GitHub:** [github.com/SantosMods/SandyShoresReborn](https://github.com/SantosMods/SandyShoresReborn)
+---
 
-Originally launched in beta on January 28, **SandyShoresReborn** has undergone extensive refinements to deliver a complete transformation of Sandy Shores.
+**SandyShoresReborn** is a complete environmental overhaul of Sandy Shores for **FiveM** and **GTA V Single Player**.
 
-This YMAP enhances the region with environmental details, upgraded infrastructure, and storytelling elements. It supports both **FiveM** and **GTA V Single Player**.
+The project originally launched in beta on January 28. Since then, it has received major updates focused on environmental design, infrastructure, world detail, and performance.
+
+---
 
 ## Features
 
 ### Expanded Vegetation
 
-Additional trees, cacti, and foliage create a more natural and immersive landscape.
+Additional trees, cacti, bushes, and regional foliage create a more natural and developed desert environment.
 
-### Upgraded Infrastructure
+### Improved Infrastructure
 
-Enhanced road signs, street details, and urban elements improve the realism of Sandy Shores.
+Updated road signs, street details, props, and surrounding infrastructure improve the quality and realism of Sandy Shores.
 
-### Story-Rich Design
+### Environmental Storytelling
 
-Environmental changes add depth, history, and character throughout the region.
+Detailed environmental changes give Sandy Shores more history, character, and identity.
 
-### Performance Optimized
+### Performance-Focused Design
 
-The map is designed to improve the environment without causing unnecessary gameplay performance issues.
+The map has been designed and refined to improve the environment without adding unnecessary performance impact.
 
-## Continued Development and Community Access
+---
 
-SandyShoresReborn is now available as its public **2.0 release**, but development will continue.
+## Platform Support
+
+* FiveM
+* GTA V Single Player
+
+---
+
+## Continued Development
+
+Public Release 2.0 is not the end of development.
 
 Future updates may include:
 
 * Additional environmental improvements
-* Map refinements
-* Performance updates
+* Vegetation and prop refinements
+* Performance improvements
+* Map fixes
 * New regional content
-* Community-requested changes
 
-## Links
+---
 
-* **GitHub:** [github.com/SantosMods/SandyShoresReborn](https://github.com/SantosMods/SandyShoresReborn)
-* **Discord:** [Discord](https://santosmods.dev/discord)
-* **Website:** [Website](https://santosmods.dev)
+## Official Links
+
+**GitHub**
+https://github.com/SantosMods/SandyShoresReborn
+
+**Website**
+https://santosmods.dev/
+
+**Discord**
+https://santosmods.dev/discord
+
+---
+
+Developed and maintained by **SantosMods.dev**.
