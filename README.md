@@ -2,7 +2,7 @@
 
 ---
 
-**SandyShoresReborn** is a complete environmental overhaul of Sandy Shores for **FiveM** and **GTA V Single Player**.
+**SandyShoresReborn** is a complete environmental overhaul of Sandy Shores for **FiveM** and **GTAV Single Player**.
 
 The project originally launched in beta on January 28. Since then, it has received major updates focused on environmental design, infrastructure, world detail, and performance.
 
@@ -31,13 +31,13 @@ The map has been designed and refined to improve the environment without adding 
 ## Platform Support
 
 * FiveM
-* GTA V Single Player
+* GTAV Single Player
 
 ---
 
 ## Continued Development
 
-Public Release 2.0 is not the end of development.
+Public Release 3.0 is not the end of development.
 
 Future updates may include:
 
